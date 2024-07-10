@@ -4,4 +4,4 @@ This repository contains the data and code used in the paper "FiGVCL: Fine-Grain
 
 Due to possible copyright issues, currently, the dataset is available through application. Please read and sign the [Release Agreement](https://github.com/wyluo-VSLAB/FiGVCL/blob/main/Release%20Agreement.pdf) and send it via email to the authors (luowenyang2020@ia.ac.cn).
 
-The metadata, code, and other stuff related to the FiGVCL dataset will be available soon in this repository. 
+The metadata, code, and other stuff related to the FiGVCL dataset will be available soon. 
